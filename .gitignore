@@ -1,0 +1,10 @@
+### Bazel ###
+/bazel-*
+
+### Tulsi ###
+/tulsi-*
+*.tulsiconf-user
+*.xcodeproj
+
+### macOS ###
+.DS_Store
