@@ -45,7 +45,11 @@
   },
   "projectName" : "test_tulsi",
   "sourceFilters" : [
-    "external/...",
-    "src/..."
+    "external",
+    "external/com_github_fmtlib_fmt",
+    "external/com_github_fmtlib_fmt/include",
+    "external/com_github_fmtlib_fmt/include/fmt",
+    "external/com_github_fmtlib_fmt/src",
+    "src"
   ]
 }

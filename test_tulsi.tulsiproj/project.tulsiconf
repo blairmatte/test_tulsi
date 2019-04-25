@@ -5,7 +5,7 @@
     }
   },
   "packages" : [
-    ""
+    "src"
   ],
   "projectName" : "test_tulsi",
   "workspaceRoot" : ".."

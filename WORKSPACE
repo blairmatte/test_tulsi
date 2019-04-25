@@ -21,8 +21,8 @@ git_repository(
 )
 
 new_git_repository(
-    name = "com_github_gabime_spdlog",
-    remote = "https://github.com/gabime/spdlog.git",
-    tag = "v1.3.1",
-    build_file = "//:thirdparty/spdlog.BUILD",
+    name = "com_github_fmtlib_fmt",
+    remote = "https://github.com/fmtlib/fmt.git",
+    tag = "5.3.0",
+    build_file = "//:thirdparty/fmt.BUILD",
 )
